@@ -77,6 +77,7 @@ A curated list of awesome free online tools for developers, designers, and every
 
 | Tool | Description | Link |
 |------|-------------|------|
+| **Concrete Calculator Hub** | Free concrete calculators for slabs, footings, post holes, bag counts, ready-mix planning, and material cost estimates. | [concreteestimatorhub.com](https://concreteestimatorhub.com/) |
 | **Unit Converter** | Convert length, mass, temperature, area, volume, speed, time, data storage, pressure, energy, power and angle units. | [unit.aitinytools.com](https://unit.aitinytools.com) |
 
 ## Driving Test
